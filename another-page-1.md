@@ -15,6 +15,9 @@ Joint with Clare Leaver, Pieter Serneels, and Andrew Zeitlin
 
 [a relative link once again to go back](README.md)
 
+
+![Owen and John walking](owen-john-cropwide-500-331.jpg)
+
 You can use the [editor on GitHub](https://github.com/owenozier/test123/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 
