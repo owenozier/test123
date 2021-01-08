@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
+<!--- this next pair of lines gets rid of the View on Github link at the top of all pages --->
 github:
   is_project_page: false
