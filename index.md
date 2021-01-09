@@ -1,9 +1,9 @@
 ---
-image: /img/IMG_5837_ac_1ccw_cr_widecrop1.jpg
+image: img/IMG_5837_ac_1ccw_cr_widecrop1.jpg
 ---
 ## Welcome to GitHub Pages at INDEX location, now with image.
 
-This is the index location, but now featuring an image.
+This is the index location, but now featuring image with no leading slash.
 
 ### Recruitment, Effort, and Retention Effects of Performance Contracts for Civil Servants: Experimental Evidence from Rwandan Primary Schools
 American Economic Review, (conditionally accepted, September 2020)
