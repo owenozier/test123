@@ -14,6 +14,8 @@ Joint with Clare Leaver, Pieter Serneels, and Andrew Zeitlin
 	This paper reports on a two-tiered experiment designed to separately identify the selection and effort margins of pay-for-performance (P4P). At the recruitment stage, teacher labor markets were randomly assigned to a 'pay-for-percentile' or fixed-wage contract. Once recruits were placed, an unexpected, incentive-compatible, school-level re-randomization was performed, so that some teachers who applied for a fixed-wage contract ended up being paid by P4P, and vice versa. By the second year of the study, the within-year effort effect of P4P was 0.16 standard deviations of pupil learning, with the total effect rising to 0.20 standard deviations after allowing for selection.
 </details>
 
+[link to faster2](faster2.html)
+
 [link to faster1](faster1.html)
 
 [a relative link](another-page-1.html)
