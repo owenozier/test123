@@ -1,5 +1,4 @@
+theme: jekyll-theme-cayman
 title: Research site
-description: this site contains research information
-show_downloads: false
-google_analytics: false
-theme: jekyll-theme-tactile
+github:
+  is_project_page: false
