@@ -4,7 +4,7 @@
 
 ## FASTER1 Welcome to GitHub Pages at INDEX location, now with old format image.
 
-This is the faster1 location, but now featuring old format image WITH leading slash.
+This is the faster1 location, but now featuring old format image WITH leading slash, dashes at the top.
 
 ### Recruitment, Effort, and Retention Effects of Performance Contracts for Civil Servants: Experimental Evidence from Rwandan Primary Schools
 American Economic Review, (conditionally accepted, September 2020)
