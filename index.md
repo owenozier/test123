@@ -1,7 +1,7 @@
 ---
 image: /img/IMG_5837_ac_1ccw_cr_widecrop1.jpg
 ---
-## Welcome to GitHub Pages at INDEX location.
+## Welcome to GitHub Pages at INDEX location, now with image.
 
 This is the index location.
 
