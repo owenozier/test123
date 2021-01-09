@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-THIS is only a test.
+THIS is only a test. Now at README location.
 
 ### Recruitment, Effort, and Retention Effects of Performance Contracts for Civil Servants: Experimental Evidence from Rwandan Primary Schools
 American Economic Review, (conditionally accepted, September 2020)
