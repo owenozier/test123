@@ -1,6 +1,3 @@
----
-image: /img/IMG_5837_ac_1ccw_cr_widecrop1.jpg
----
 
 ## Welcome to GitHub Pages
 
