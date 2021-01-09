@@ -1,4 +1,6 @@
+---
 ![Wide crop](/img/IMG_5837_ac_1ccw_cr_widecrop1.jpg)
+---
 
 ## FASTER1 Welcome to GitHub Pages at INDEX location, now with old format image.
 
