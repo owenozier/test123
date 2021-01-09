@@ -1,10 +1,10 @@
 ---
-![Wide crop](/img/IMG_5837_ac_1ccw_cr_widecrop1.jpg)
+image: /img/IMG_5837_ac_1ccw_cr_widecrop1.jpg
 ---
 
-## FASTER2 Welcome to GitHub Pages at INDEX location, now with old format image.
+## FASTER2 Welcome to GitHub Pages new format image.
 
-This is the faster2 location, but now featuring old format image WITH leading slash, dashes at the top.
+This is the faster2 location, but now featuring NEW format image WITH leading slash, dashes at the top.
 
 ### Recruitment, Effort, and Retention Effects of Performance Contracts for Civil Servants: Experimental Evidence from Rwandan Primary Schools
 American Economic Review, (conditionally accepted, September 2020)
